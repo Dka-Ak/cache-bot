@@ -1,0 +1,23 @@
+body{
+    background-color:blue;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    border-radius: 25%;  
+}
+ul{
+    list-style-type: armenian;
+    border-color: brown;
+}
+h1{
+    color-scheme: rgb(47, 255, 0);
+}
+h3{
+    color-scheme: mediumseagreen;
+}
+p{
+    color-scheme: mediumseagreen;
+    font-size: small;
+    color: aquamarine;
+    border-radius: 25%;
+}
